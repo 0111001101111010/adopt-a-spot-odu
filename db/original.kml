@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>Adopt-A-Spot ODU 2013</name>
+  <description><![CDATA[ODU mapped spot to upload to Adopt-A]]></description>
+  <Style id="style24">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style51">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style16">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style28">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style47">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style34">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style9">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style38">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style26">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style21">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style2">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style33">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style22">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style41">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style6">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style12">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style32">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style5">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style23">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style42">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style39">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style4">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style20">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style50">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style36">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style18">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style3">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style40">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style13">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style14">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style29">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style30">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style43">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style1">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style10">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style7">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style37">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style45">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style8">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style48">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style46">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style49">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style19">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style25">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style15">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style27">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style35">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style17">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style31">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style44">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="style11">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.gstatic.com/mapfiles/ms2/micons/blue-dot.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Kaufman Mall</name>
+    <description><![CDATA[<div dir="ltr">Filipino American Student Union</div>]]></description>
+    <styleUrl>#style24</styleUrl>
+    <Point>
+      <coordinates>-76.305504,36.886257,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Constant Hall</name>
+    <description><![CDATA[<div dir="ltr">ISPMP</div>]]></description>
+    <styleUrl>#style51</styleUrl>
+    <Point>
+      <coordinates>-76.305168,36.886944,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Batten Arts and Letters</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style16</styleUrl>
+    <Point>
+      <coordinates>-76.303719,36.884514,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Elkhorn and 49th</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style28</styleUrl>
+    <Point>
+      <coordinates>-76.308289,36.887455,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Chemistry Building</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style47</styleUrl>
+    <Point>
+      <coordinates>-76.305939,36.884865,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Constant Hall</name>
+    <description><![CDATA[<div dir="ltr">VOX<br>&nbsp;</div>]]></description>
+    <styleUrl>#style34</styleUrl>
+    <Point>
+      <coordinates>-76.305328,36.885544,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Darden Education</name>
+    <description><![CDATA[<div dir="ltr">Teacher Education Services and Advising Office</div>]]></description>
+    <styleUrl>#style9</styleUrl>
+    <Point>
+      <coordinates>-76.303368,36.886112,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Diehn</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style38</styleUrl>
+    <Point>
+      <coordinates>-76.307716,36.887318,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dominion House </name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style26</styleUrl>
+    <Point>
+      <coordinates>-76.310066,36.886898,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dragas Hall</name>
+    <description><![CDATA[<div dir="ltr">English Language Center</div>]]></description>
+    <styleUrl>#style21</styleUrl>
+    <Point>
+      <coordinates>-76.303497,36.887005,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Engineering &amp; Computational Sciences</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style2</styleUrl>
+    <Point>
+      <coordinates>-76.307861,36.885612,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Scottland House</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style33</styleUrl>
+    <Point>
+      <coordinates>-76.309326,36.886150,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>EnglandHouse</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style22</styleUrl>
+    <Point>
+      <coordinates>-76.310410,36.885677,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>France House</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style41</styleUrl>
+    <Point>
+      <coordinates>-76.310425,36.886330,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Golf Parking/Lamberts Point </name>
+    <description><![CDATA[<div dir="ltr">ODU Women's Golf </div>]]></description>
+    <styleUrl>#style6</styleUrl>
+    <Point>
+      <coordinates>-76.315147,36.883587,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Green Behind Ted</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style12</styleUrl>
+    <Point>
+      <coordinates>-76.300499,36.884056,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gresham Hall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style32</styleUrl>
+    <Point>
+      <coordinates>-76.299385,36.887714,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Gornto </name>
+    <description><![CDATA[<div dir="ltr">Rotaract Club</div>]]></description>
+    <styleUrl>#style5</styleUrl>
+    <Point>
+      <coordinates>-76.304016,36.884102,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Health Sciences Building </name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style23</styleUrl>
+    <Point>
+      <coordinates>-76.302116,36.886089,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hughes Hall</name>
+    <description><![CDATA[<div dir="ltr"></div>]]></description>
+    <styleUrl>#style42</styleUrl>
+    <Point>
+      <coordinates>-76.303856,36.887596,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Intercollegiate Althletic Building</name>
+    <description><![CDATA[<div dir="ltr">Big Blue Crew</div>]]></description>
+    <styleUrl>#style39</styleUrl>
+    <Point>
+      <coordinates>-76.309593,36.885098,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ireland House</name>
+    <description><![CDATA[<div dir="ltr">Phi Eta Sigma/ 40</div>]]></description>
+    <styleUrl>#style4</styleUrl>
+    <Point>
+      <coordinates>-76.308495,36.885979,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kaufman Hall</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style20</styleUrl>
+    <Point>
+      <coordinates>-76.305222,36.886013,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kaufman Mall</name>
+    <description><![CDATA[<div dir="ltr">National Society of Black Engineers</div>]]></description>
+    <styleUrl>#style50</styleUrl>
+    <Point>
+      <coordinates>-76.304749,36.886066,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Koch Hall</name>
+    <description><![CDATA[<div dir="ltr">Pi Kappa Alpha</div>]]></description>
+    <styleUrl>#style36</styleUrl>
+    <Point>
+      <coordinates>-76.303116,36.887886,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lions Child Care Center</name>
+    <description><![CDATA[<div dir="ltr">Lions Child Care Center</div>]]></description>
+    <styleUrl>#style18</styleUrl>
+    <Point>
+      <coordinates>-76.303528,36.885067,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lot 1</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style3</styleUrl>
+    <Point>
+      <coordinates>-76.302635,36.888680,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lot 27</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style40</styleUrl>
+    <Point>
+      <coordinates>-76.309250,36.887035,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lot 32</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style13</styleUrl>
+    <Point>
+      <coordinates>-76.303146,36.883812,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Batten Arts and Letters</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style14</styleUrl>
+    <Point>
+      <coordinates>-76.303688,36.884552,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lot 32</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style29</styleUrl>
+    <Point>
+      <coordinates>-76.314629,36.885426,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lot 42</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style30</styleUrl>
+    <Point>
+      <coordinates>-76.316223,36.885399,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Mills Godwin Building</name>
+    <description><![CDATA[<div><br>&nbsp;</div><div><br>&nbsp;</div>]]></description>
+    <styleUrl>#style43</styleUrl>
+    <Point>
+      <coordinates>-76.306099,36.884212,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Lot 33</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style1</styleUrl>
+    <Point>
+      <coordinates>-76.301430,36.888355,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Peace Garden</name>
+    <description><![CDATA[<div dir="ltr">Joint Service Society</div>]]></description>
+    <styleUrl>#style10</styleUrl>
+    <Point>
+      <coordinates>-76.307205,36.886082,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Perry Library</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style7</styleUrl>
+    <Point>
+      <coordinates>-76.305244,36.884365,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Powhatan i</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style37</styleUrl>
+    <Point>
+      <coordinates>-76.313698,36.886040,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Powhatan II</name>
+    <description><![CDATA[<div dir="ltr">Powhatan Village Apartments Community Council</div>]]></description>
+    <styleUrl>#style45</styleUrl>
+    <Point>
+      <coordinates>-76.313736,36.885593,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rogers</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style8</styleUrl>
+    <Point>
+      <coordinates>-76.301323,36.887886,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Rollins Hall </name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style48</styleUrl>
+    <Point>
+      <coordinates>-76.304558,36.889988,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Virginia House</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style46</styleUrl>
+    <Point>
+      <coordinates>-76.309036,36.885750,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Village Lot 1</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style49</styleUrl>
+    <Point>
+      <coordinates>-76.299309,36.885345,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Village Lot 2</name>
+    <description><![CDATA[<div dir="ltr">Tau Sigma National Honor Society</div>]]></description>
+    <styleUrl>#style19</styleUrl>
+    <Point>
+      <coordinates>-76.299026,36.884247,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Village Lot 3</name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style25</styleUrl>
+    <Point>
+      <coordinates>-76.298866,36.882866,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Visual Arts Building</name>
+    <description><![CDATA[<div dir="ltr">Anime Club</div>]]></description>
+    <styleUrl>#style15</styleUrl>
+    <Point>
+      <coordinates>-76.304375,36.886967,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Water Pond By OCNPS </name>
+    <description><![CDATA[<div dir="ltr">Gamma Sigma Sigma National Service Sorority inc. </div>]]></description>
+    <styleUrl>#style27</styleUrl>
+    <Point>
+      <coordinates>-76.306976,36.885162,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Water Rentention Pond on 47th St</name>
+    <description><![CDATA[<div dir="ltr">American Society of Civil Engineers</div>]]></description>
+    <styleUrl>#style35</styleUrl>
+    <Point>
+      <coordinates>-76.300896,36.886368,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Colleges against Cancer</name>
+    <description><![CDATA[<div dir="ltr">Webb Center </div>]]></description>
+    <styleUrl>#style17</styleUrl>
+    <Point>
+      <coordinates>-76.306046,36.886383,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Webb VIP Lot</name>
+    <description><![CDATA[<div dir="ltr">ODU APASU</div>]]></description>
+    <styleUrl>#style31</styleUrl>
+    <Point>
+      <coordinates>-76.307014,36.887283,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Whitehurst Hall</name>
+    <description><![CDATA[<div dir="ltr">Delta Zeta</div>]]></description>
+    <styleUrl>#style44</styleUrl>
+    <Point>
+      <coordinates>-76.315445,36.886059,0.000000</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Whitehurst Beach </name>
+    <description><![CDATA[]]></description>
+    <styleUrl>#style11</styleUrl>
+    <Point>
+      <coordinates>-76.316368,36.886211,0.000000</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
